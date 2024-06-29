@@ -1,0 +1,16 @@
+body{
+    background-image: url("./images/2L1A2658-2.jpg");
+    background-size: cover;
+    
+}
+.accordion{
+    position: relative;
+    top: 100px;
+}
+.d1{
+    font-family: cursive;
+    position: relative;
+    top: 50px;
+    font-style: unset;
+}
+    
